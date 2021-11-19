@@ -9,6 +9,10 @@ package lab6p2_joseosejo_22051056;
  *
  * @author jcoq2
  */
-public class Pokemon {
-    
+public class Pokemon 
+{
+ String nombre;
+ double danio;
+ int puntosDeVida;
+ String velocidad;
 }

@@ -5,10 +5,18 @@
  */
 package lab6p2_joseosejo_22051056;
 
+import java.util.ArrayList;
+import java.util.Date;
+
 /**
  *
  * @author jcoq2
  */
-public class PokeGrupo {
-    
+public class PokeGrupo 
+{
+ String nombre;
+ ArrayList<Usuario>miembrosPokeGrupo;
+ Date fechaCreacion;
+ Usuario usuarioLider;
+ String tipoDePokeGrupo;
 }

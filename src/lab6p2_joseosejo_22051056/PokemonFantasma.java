@@ -9,6 +9,7 @@ package lab6p2_joseosejo_22051056;
  *
  * @author jcoq2
  */
-public class PokemonFantasma {
+public class PokemonFantasma extends Pokemon
+{
     
 }

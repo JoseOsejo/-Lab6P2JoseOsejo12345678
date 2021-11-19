@@ -5,10 +5,20 @@
  */
 package lab6p2_joseosejo_22051056;
 
+import java.util.Date;
+
 /**
  *
  * @author jcoq2
  */
-public class Usuario {
-    
+public class Usuario 
+{
+ String nombre;
+ String apellido;
+ String nombreUsuario;//validar que sea unico
+ String password;
+ Date fechaNacimiento;
+ Date edad;//calcular con fechaNacimiento
+ String colorFavorito;
+ Pokedex pokedex;//son tres pokedex
 }

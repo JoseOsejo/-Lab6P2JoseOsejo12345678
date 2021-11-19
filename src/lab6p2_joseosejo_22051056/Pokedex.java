@@ -9,6 +9,8 @@ package lab6p2_joseosejo_22051056;
  *
  * @author jcoq2
  */
-public class Pokedex {
-    
+public class Pokedex 
+{
+Pokemon pokemones;//son tres pokemones
+double danioPromedioPokemones;
 }
