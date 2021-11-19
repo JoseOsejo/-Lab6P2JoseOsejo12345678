@@ -13,4 +13,30 @@ public class Pokedex
 {
 Pokemon pokemones;//son tres pokemones
 double danioPromedioPokemones;
+
+    public Pokedex(Pokemon pokemones, double danioPromedioPokemones) {
+        this.pokemones = pokemones;
+        this.danioPromedioPokemones = danioPromedioPokemones;
+    }
+
+    public Pokemon getPokemones() {
+        return pokemones;
+    }
+
+    public void setPokemones(Pokemon pokemones) {
+        this.pokemones = pokemones;
+    }
+
+    public double getDanioPromedioPokemones() {
+        return danioPromedioPokemones;
+    }
+
+    public void setDanioPromedioPokemones(double danioPromedioPokemones) {
+        this.danioPromedioPokemones = danioPromedioPokemones;
+    }
+
+
+
+
+
 }
