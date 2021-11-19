@@ -51,7 +51,7 @@ public class PokemonFightGUI extends javax.swing.JFrame {
 
         passwordLabel.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         passwordLabel.setForeground(new java.awt.Color(0, 153, 0));
-        passwordLabel.setText("Registro");
+        passwordLabel.setText("Password");
 
         userTextfield.setForeground(new java.awt.Color(0, 51, 102));
 
