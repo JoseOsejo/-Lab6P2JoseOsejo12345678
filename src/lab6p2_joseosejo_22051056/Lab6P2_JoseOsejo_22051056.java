@@ -15,7 +15,8 @@ public class Lab6P2_JoseOsejo_22051056 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int holaMundo = 3;
+        System.out.println("Hola Mundo"+ holaMundo);
     }
     
 }
