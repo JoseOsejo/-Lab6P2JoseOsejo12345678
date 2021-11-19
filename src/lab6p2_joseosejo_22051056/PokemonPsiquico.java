@@ -11,5 +11,9 @@ package lab6p2_joseosejo_22051056;
  */
 public class PokemonPsiquico extends Pokemon 
 {
+
+    public PokemonPsiquico(String nombre, double danio, int puntosDeVida, String velocidad) {
+        super(nombre, danio, puntosDeVida, velocidad);
+    }
     
 }
